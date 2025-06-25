@@ -129,3 +129,10 @@ describe 'tabela sem aspas';
 --- Pegar os dados
 select * from 'tabela sem aspas';
 ```
+
+
+# fazer frontend com phpslim
+deve-se instalar o pacote
+``` bash
+composer require slim/php-view
+```
